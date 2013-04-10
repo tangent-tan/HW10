@@ -18,7 +18,7 @@
       </hgroup>
     </header>
     <figure>
-    	<img ICEBOOK="/TanProfile.jpg" width="300" height="250" alt="Picture">
+    	<img src="/TanProfile.jpg" width="300" height="250" alt="Picture">
     	<figcaption>Profile Picture</figcaption>
     </figure>
   </body>
