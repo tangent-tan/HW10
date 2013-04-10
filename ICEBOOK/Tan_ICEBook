@@ -1,0 +1,25 @@
+<html lang="en">
+  <head>
+  	<title>Tan_ICEBook</title>
+
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script>
+      $(document).ready(function() {
+
+      });
+    </script>
+  </head>
+  
+  <body>
+  	 <header>
+      <hgroup>
+        <h1>ICEBOOK</h1>
+        <h2>Arnan Yodpinit</h2>
+      </hgroup>
+    </header>
+    <figure>
+    	<img ICEBOOK="/TanProfile.jpg" width="300" height="250" alt="Picture">
+    	<figcaption>Profile Picture</figcaption>
+    </figure>
+  </body>
+</html>
