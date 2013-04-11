@@ -88,8 +88,15 @@
         <header>
           <h1>This is a video section</h1>
         </header>
-          <iframe width="400" height="500" src="http://youtu.be/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="http://www.youtube.com/embed/nKIu9yen5nc" frameborder="0" allowfullscreen></iframe>
       </section>
+
+      <sextion>
+        <header>
+          <h1>My Favorite Song</h1>
+        <header>
+          <audio src = "Thnks Fr Th Mmrs.mp3" controls autoplay loop>
+          </audio>
 
     </article>
 
